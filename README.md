@@ -1,4 +1,4 @@
-# TaskMaster: Modern Task Management Android Application
+# TaskManagement: Modern Task Management Android Application
 
 TaskMaster is a complete, production-ready Android application designed using modern Android development best practices, Clean Architecture, and offline-first synchronization.
 
